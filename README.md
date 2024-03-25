@@ -1,6 +1,6 @@
 # cardapio_responsivo
 
-An responsive menu app to restaurants
+An responsive menu app for restaurants
 
 ## Getting Started
 
